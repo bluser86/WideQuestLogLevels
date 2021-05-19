@@ -1,7 +1,7 @@
 Wide Quest Log Levels
 =====================
 
-Wide Quest Log Levels is a World of Warcraft Classic addon that adds 
+Wide Quest Log Levels is a World of Warcraft TBC/Classic addon that adds 
 level badges to the Quest Log overview.
 
 This addon is complementary to "Wide Quest Log" 
